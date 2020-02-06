@@ -75,7 +75,7 @@ button:hover {
 <body>
 	<%@ include file="../common/mainMenu.jsp"%>
 	<script type="text/javascript">
-		document.getElementById("mainName").innerHTML = "공지 사항";
+		document.getElementById("mainName").innerHTML = "게시판";
 	</script>
 
 	<div class="fo">
