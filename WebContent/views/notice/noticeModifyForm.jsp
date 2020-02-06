@@ -116,7 +116,7 @@ button:hover {
 <body>
 	<%@ include file="../common/mainMenu.jsp"%>
 	<script type="text/javascript">
-		document.getElementById("mainName").innerHTML = "공지사항 수정";
+		document.getElementById("mainName").innerHTML = "게시판 수정";
 	</script>
 
 	<form action="<%=cp%>/update.no" method="post"
