@@ -103,7 +103,7 @@ button:hover {
 <body>
 	<%@ include file="../common/mainMenu.jsp"%>
 	<script type="text/javascript">
-		document.getElementById("mainName").innerHTML = "공지사항 작성";
+		document.getElementById("mainName").innerHTML = "게시판 작성";
 	</script>
 
 	<form action="<%=cp%>/insert.no" method="post"
